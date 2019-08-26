@@ -2,11 +2,18 @@
 Testing the vibrate motor on Card10 badge from CCCamp2019
 
 
-## Main Repos
+## Issues
+
+Right now it breaks when the bottom left/right buttons are pressed because "NameError: local variable referenced before assignment"... so I need to learn to python
+
+Also it will only vibrate for a couple of minutes before the message "MXC_ASSERT ../lib/FreeRTOS/Source/timers.c #386: (xTimer)" is output and it stops working.
+
+### Main Repos
 https://git.card10.badge.events.ccc.de
 
-## Main Info
+### Main Info
 https://card10.badge.events.ccc.de/
 
-## API Doc
+### API Doc
 https://firmware.card10.badge.events.ccc.de/epicardium/api.html#vibration-motor
+
