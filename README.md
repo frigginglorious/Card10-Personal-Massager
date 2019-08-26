@@ -1,6 +1,12 @@
+
+
 # Card10-Personal-Massager
 Testing the vibrate motor on Card10 badge from CCCamp2019
 
+## Install:
+
+cd /dev/[device_name]/apps
+git clone https://github.com/frigginglorious/Card10-Personal-Massager personal_massager
 
 ## Issues
 
