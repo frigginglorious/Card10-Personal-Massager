@@ -24,7 +24,7 @@ def goFaster():
     vibration_speed = vibration_speed + 1
 
 
-
+button_pressed = False
 while True:
     disp.clear()
     headline()
